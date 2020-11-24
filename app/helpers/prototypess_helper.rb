@@ -1,0 +1,2 @@
+module PrototypessHelper
+end
